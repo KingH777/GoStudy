@@ -1,1 +1,1 @@
-This is a pracitice file for git operations.
+This is a test file for git operations.
